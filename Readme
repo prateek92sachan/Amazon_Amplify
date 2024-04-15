@@ -1,0 +1,8 @@
+
+
+def exponent(x,y):
+  z=1
+  z=y^x
+  return(z)
+print(exponent(3,2)
+  
